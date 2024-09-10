@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-## Screenshot
-[screenshot/screenshot.png]
+### Screenshot
+![Screenshot](screenshot/screenshot.png)
 
 ## Getting Started
 
